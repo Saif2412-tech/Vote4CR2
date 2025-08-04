@@ -170,7 +170,7 @@ def render_student_view():
 # <<< BEHTAR UI KE LIYE LAYOUT UPDATE KIYA GAYA HAI >>>
 st.markdown(f"""
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/tarique143/Vote4CR2/main/rc_voting_app/assets/logo.png" width="150">
+    <img src="https://raw.githubusercontent.com/tarique143/Vote4CR2/main/rc_voting_app/assets/SMSHETTYLOGO.png" width="150">
     <h1 style='color: #2E4053;'>{COLLEGE_NAME}</h1>
     <h3 style='color: #566573;'>CR Election Portal</h3>
 </div>
